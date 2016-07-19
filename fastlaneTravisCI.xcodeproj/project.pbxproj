@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					FD754B731D3EA0920056BC35 = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = 84JX58L4ZW;
 					};
 					FD754B871D3EA0920056BC35 = {
 						CreatedOnToolsVersion = 7.3.1;
@@ -349,7 +350,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -389,7 +390,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -484,6 +485,7 @@
 				FD754B9E1D3EA0920056BC35 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FD754B9F1D3EA0920056BC35 /* Build configuration list for PBXNativeTarget "fastlaneTravisCITests" */ = {
 			isa = XCConfigurationList;
@@ -492,6 +494,7 @@
 				FD754BA11D3EA0920056BC35 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FD754BA21D3EA0920056BC35 /* Build configuration list for PBXNativeTarget "fastlaneTravisCIUITests" */ = {
 			isa = XCConfigurationList;
@@ -500,6 +503,7 @@
 				FD754BA41D3EA0920056BC35 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
